@@ -10,7 +10,6 @@ body {
     height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
     color: var(--tg-color-black);
     background: var(--tg-color-black);
-    filter: brightness(90%); /* Пример изменения тона с помощью яркости */    
 }
 
 .navbar-brand {
