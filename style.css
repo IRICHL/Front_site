@@ -1,0 +1,23 @@
+.navbar {
+    height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
+    border: 1px solid #ccc; /* Ширина, стиль и цвет рамки */
+    border-radius: 5px; /* Округление углов */
+}
+
+.navbar-brand {
+    margin-top: -10px; /* Установите отрицательное значение верхнего отступа */
+}
+
+.navbar-brand .row {
+    margin-top: 3px;
+    line-height: 0; /* Установите значение line-height равным 1 */
+}
+
+.navbar-brand img {
+    margin-top: -9px; /* Установите значение отрицательного верхнего отступа */
+}
+
+.card {
+    margin-top: 10px;
+    max-width: 23rem;
+}
