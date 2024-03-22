@@ -9,7 +9,7 @@ body {
 .navbar {
     height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
     color: var(--tg-theme-text-color);
-    background: var(--tg-theme-bg-color);
+    background: var(--tg-theme-secondary-bg-color);
 }
 
 .navbar-brand {
