@@ -2,14 +2,14 @@ body {
     margin: 0;
     padding: 0;
     font-size: 18px;
-    color: var(--tg-color-black);
-    background: var(--tg-color-black);
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
 }
 
 .navbar {
     height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
-    color: var(--tg-color-black);
-    background: var(--tg-color-black);
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
 }
 
 .navbar-brand {
