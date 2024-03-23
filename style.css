@@ -29,3 +29,11 @@ body {
     margin-top: 10px;
     max-width: 23rem;
 }
+
+.fs-5 {
+    color: var(--tg-theme-text-color);
+}
+
+.fs-6 {
+    color: var(--tg-theme-text-color);
+}
