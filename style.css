@@ -38,3 +38,7 @@ body {
 .fs-6 {
     color: var(--tg-theme-text-color);
 }
+
+.card-text{
+    color: var(--tg-theme-hint-color);
+}
