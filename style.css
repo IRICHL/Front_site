@@ -51,6 +51,12 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
+.accordion-button{
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
+}
+
 .accordion-item{
+    color: var(--tg-theme-text-color);
     background: var(--tg-theme-bg-color);
 }
