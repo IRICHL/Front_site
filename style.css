@@ -48,7 +48,7 @@ body {
 }
 
 .accordion{
-    background: var(--tg-theme-bg-color);
+    background: var(--tg-theme-secondary-bg-color);
 }
 
 .accordion-button{
