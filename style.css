@@ -39,6 +39,14 @@ body {
     color: var(--tg-theme-text-color);
 }
 
+.card-title{
+    color: var(--tg-theme-text-color);
+}
+
 .card-text{
     color: var(--tg-theme-hint-color);
+}
+
+.accordion{
+    background: var(--tg-theme-bg-color);
 }
