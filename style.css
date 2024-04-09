@@ -50,3 +50,7 @@ body {
 .accordion{
     background: var(--tg-theme-bg-color);
 }
+
+.accordion-item{
+    background: var(--tg-theme-bg-color);
+}
