@@ -87,3 +87,7 @@ a[href="procedur_list.html"] * {
     height: 160px; /* Фиксированная высота для всех изображений */
     object-fit: cover; /* Обрезка изображений для поддержания аспекта */
 }
+
+.scrollable-row::-webkit-scrollbar {
+    display: none;  /* Chrome, Safari, Opera */
+}
