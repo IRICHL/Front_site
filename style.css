@@ -76,3 +76,14 @@ a[href="procedur_list.html"] * {
     color: var(--tg-theme-text-color);
     background: var(--tg-theme-bg-color);
 }
+
+.scrollable-row {
+    overflow-x: auto;
+    white-space: nowrap; /* Обеспечивает выравнивание элементов в одну линию */
+    scroll-behavior: smooth; /* Плавная прокрутка */
+}
+.scrollable-row img {
+    width: 240px; /* Фиксированная ширина для всех изображений */
+    height: 160px; /* Фиксированная высота для всех изображений */
+    object-fit: cover; /* Обрезка изображений для поддержания аспекта */
+}
