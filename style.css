@@ -31,6 +31,10 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
+.hstack {
+    margin-top: 10px;
+}
+
 a[href="procedur_list.html"],
 a[href="procedur_list.html"] * {
     text-decoration: none; /* Убираем подчеркивание у всех элементов внутри ссылки */
@@ -61,6 +65,11 @@ a[href="procedur_list.html"] * {
 
 .card-text{
     color: var(--tg-theme-hint-color);
+}
+
+.card img{
+    width: 200px; /* или любой другой размер, который подходит */
+    height: 200px; /* пропорционально измените высоту, если нужно */
 }
 
 .accordion{
