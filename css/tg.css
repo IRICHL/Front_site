@@ -3,6 +3,10 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
+.preloader{
+    background: var(--tg-theme-bg-color);
+}
+
 .page-header{
     background: var(--tg-theme-bg-color);
 }
