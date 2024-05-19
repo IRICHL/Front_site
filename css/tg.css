@@ -3,32 +3,11 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
-.preloader{
-    background: var(--tg-theme-bg-color);
-}
-
-.page-header{
-    background: var(--tg-theme-bg-color);
-}
-
-.rd-navbar-main{
-    color: var(--tg-theme-text-color);
-    background: var(--tg-theme-bg-color);
-}
-
-
-.rd-navbar-nav-wrap{
-    color: var(--tg-theme-text-color);
-    background: var(--tg-theme-bg-color);
-}
-
-.section{
-    color: var(--tg-theme-text-color);
-    background: var(--tg-theme-secondary-bg-color);
-}
-
-
-.container{
-    color: var(--tg-theme-text-color);
-    background: var(--tg-theme-bg-color);
-}
+.section-lg {
+    color: var(--tg-theme-text-color); /* черный цвет текста */
+    background-color: var(--tg-theme-secondary-bg-color);
+  }
+  
+  .section-lg h4 {
+    color: var(--tg-theme-text-color); /* синий цвет заголовков */
+  }
