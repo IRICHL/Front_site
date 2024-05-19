@@ -6,6 +6,10 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
+.page-header{
+    background: var(--tg-theme-bg-color);
+}
+
 .navbar {
     height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
     color: var(--tg-theme-text-color);
