@@ -10,6 +10,11 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
+.rd-navbar-main{
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
+}
+
 .navbar {
     height: 45px; /* Здесь вы можете установить желаемую высоту в пикселях */
     color: var(--tg-theme-text-color);
