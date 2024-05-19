@@ -22,6 +22,12 @@ body {
     background: var(--tg-theme-bg-color);
 }
 
+.section{
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-secondary-bg-color);
+}
+
+
 .container{
     color: var(--tg-theme-text-color);
     background: var(--tg-theme-bg-color);
