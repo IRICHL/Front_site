@@ -15,3 +15,9 @@ body {
     color: var(--tg-theme-text-color);
     background: var(--tg-theme-bg-color);
 }
+
+
+.rd-navbar-nav-wrap{
+    color: var(--tg-theme-text-color);
+    background: var(--tg-theme-bg-color);
+}
