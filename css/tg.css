@@ -3,11 +3,17 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
+.page-header {
+    color: var(--tg-theme-text-color);
+    background-color: var(--tg-theme-secondary-bg-color);
+  }
+  
+
 .section-lg {
-    color: var(--tg-theme-text-color); /* черный цвет текста */
+    color: var(--tg-theme-text-color);
     background-color: var(--tg-theme-secondary-bg-color);
   }
   
   .section-lg h4 {
-    color: var(--tg-theme-text-color); /* синий цвет заголовков */
+    color: var(--tg-theme-text-color);
   }
