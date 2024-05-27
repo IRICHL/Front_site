@@ -18,6 +18,10 @@ header {
     background-color: var(--tg-theme-secondary-bg-color);
   }
   
-.section-lg h4 h3 {
+.section-lg h4 {
   color: var(--tg-theme-text-color);
+}
+
+.big-custom{
+  color: var(--tg-theme-hint-color);
 }
