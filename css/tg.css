@@ -3,7 +3,7 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
-.rd-navbar-main {
+.rd-navbar-nav-wrap {
     color: var(--tg-theme-text-color);
     background-color: var(--tg-theme-secondary-bg-color);
   }
