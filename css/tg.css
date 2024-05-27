@@ -8,7 +8,11 @@ body {
     background-color: var(--tg-theme-secondary-bg-color);
   }
   
-
+.preloader{
+    color: var(--tg-theme-text-color);
+    background-color: var(--tg-theme-secondary-bg-color);
+}
+  
 .section-lg {
     color: var(--tg-theme-text-color);
     background-color: var(--tg-theme-secondary-bg-color);
