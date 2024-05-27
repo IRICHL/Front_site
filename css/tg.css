@@ -22,6 +22,10 @@ header {
   color: var(--tg-theme-text-color);
 }
 
+.section-lg h3 {
+  color: var(--tg-theme-text-color);
+}
+
 .big-custom{
   color: var(--tg-theme-hint-color);
 }
