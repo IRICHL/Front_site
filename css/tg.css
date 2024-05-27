@@ -3,7 +3,7 @@ body {
     background: var(--tg-theme-secondary-bg-color);
 }
 
-.rd-navbar-nav-wrap {
+header {
     color: var(--tg-theme-text-color);
     background-color: var(--tg-theme-secondary-bg-color);
   }
@@ -18,6 +18,6 @@ body {
     background-color: var(--tg-theme-secondary-bg-color);
   }
   
-  .section-lg h4 {
-    color: var(--tg-theme-text-color);
-  }
+.section-lg h4 h3 {
+  color: var(--tg-theme-text-color);
+}
