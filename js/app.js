@@ -11,11 +11,11 @@ function setLogoBasedOnTheme() {
 
     // Устанавливаем изображение в зависимости от цветовой схемы
     if (colorScheme === 'dark') {
-        logo.src = "{% static 'Лого.png' %}";
-        logo.srcset = "{% static 'Лого.png' %} 2x";
+        logo.src = "{% static 'images/Лого.png' %}";
+        logo.srcset = "{% static 'images/Лого.png' %} 2x";
     } else {
-        logo.src = "{% static 'images/Лого-светлая-тема.png' %}";
-        logo.srcset = "{% static 'images/Лого-светлая-тема.png' %} 2x";
+        logo.src = "{% static 'images/logo-default-261x72.png' %}";
+        logo.srcset = "{% static 'images/logo-default-261x72.png' %} 2x";
     }
 }
 
