@@ -10,9 +10,9 @@ let colorScheme = tg.colorScheme;
 
 // Устанавливаем изображение в зависимости от цветовой схемы
 if (colorScheme === 'dark') {
-    logo.src = "{% static 'images/Лого.png' %}";
-    logo.srcset = "{% static 'images/Лого.png' %} 2x";
+    logo.src = "images/Лого.png";
+    logo.srcset = "images/Лого.png 2x";
 } else {
-    logo.src = "{% static 'images/logo-default-261x72.png' %}";
-    logo.srcset = "{% static 'images/logo-default-261x72.png' %} 2x";
+    logo.src = "images/logo-default-261x72.png";
+    logo.srcset = "images/logo-default-261x72.png 2x";
 }
