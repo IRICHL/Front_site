@@ -9,7 +9,7 @@ let logo = document.getElementById("brand-logo");
 let colorScheme = tg.colorScheme;
 
 // Устанавливаем изображение в зависимости от цветовой схемы
-if (colorScheme === 'dark') {
+if (colorScheme == 'dark') {
     logo.src = "images/Лого.png";
     logo.srcset = "images/Лого.png 2x";
 } else {
